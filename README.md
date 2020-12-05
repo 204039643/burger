@@ -4,7 +4,7 @@
 
 ![burger app screenshot](public/assets/img/burger-app-screenshot1.png)
 
-A fullstack web application that allows users to track burgers that available in a list and then move them to another (devoured) once they are eaten. Additionally, new burgers can be added to the 'available' list. Tech stack utilized includes: HTML, CSS, JS, JQUERY, NODE.JS, EXPRESS, MYSQL. An custom ORM is utilized to leverage the MVC design pattern for data modeling.
+A fullstack web application that allows users to track burgers that available in a list and then move them to another (devoured) once they are eaten. Additionally, new burgers can be added to the 'available' list. Tech stack utilized includes: HTML, CSS, JS, JQUERY, NODE.JS, EXPRESS, EXPRESS-HANDLEBARS, MYSQL. An custom ORM is utilized to leverage the MVC design pattern for data modeling.
     
 - [Installation](#installation)
 - [Usage](#usage)
